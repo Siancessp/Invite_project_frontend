@@ -68,7 +68,7 @@ const Home = ({navigation}) => {
               fontWeight: '800',
               color: 'black',
             }}>
-            Invetxx
+            InviteMee
           </Text>
         </View>
         <View style={styles.top}>
